@@ -1,2 +1,2 @@
 // This file redirects to the actual entry point
-require('./server.js');
+require('./src/server.js');
